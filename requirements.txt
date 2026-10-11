@@ -1,0 +1,11 @@
+# KRYUX // SECURITY SUITE — requirements
+# ------------------------------------------------------------------
+# Die Suite läuft mit Python 3.14 NUR mit Standardlib + tkinter.
+# Es gibt KEINE Pflicht-Abhängigkeiten. Alles unten ist optional
+# und wird nur für erweiterte Module gebraucht (falls installiert).
+# ------------------------------------------------------------------
+
+# optional: scapy
+# optional: cryptography
+# optional: psutil
+# optional: requests
